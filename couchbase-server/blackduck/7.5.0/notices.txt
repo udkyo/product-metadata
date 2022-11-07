@@ -2,8 +2,10 @@ Copyright 2022
 
 [couchbase-server : 7.5.0]
 
+Phase: DEVELOPMENT
+Distribution: EXTERNAL
 
-Components: 
+Components:
 
 @angular/common 8.2.14 : MIT License
 @angular/compiler 8.2.14 : MIT License
